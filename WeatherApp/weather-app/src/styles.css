@@ -7,17 +7,13 @@
   padding: 20px 0 0 20px;
 
   color: white;
-
 }
 .title {
   width: 20%;
   float: left;
 }
-.weatherData{
-    padding: 20px 0 0 20px;
-    width: 20%;
-    display: inline-flex;
-}
-.extraInfo{
-
+.weatherData {
+  padding: 20px 0 0 20px;
+  width: 20%;
+  display: inline-flex;
 }
