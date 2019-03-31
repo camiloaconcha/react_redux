@@ -1,0 +1,23 @@
+.weatherContainer {
+  padding: 0;
+  margin: 0;
+  height: 100px;
+  width: 100%;
+  background: #690069;
+  padding: 20px 0 0 20px;
+
+  color: white;
+
+}
+.title {
+  width: 20%;
+  float: left;
+}
+.weatherData{
+    padding: 20px 0 0 20px;
+    width: 20%;
+    display: inline-flex;
+}
+.extraInfo{
+
+}

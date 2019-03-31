@@ -2,7 +2,7 @@ import React from 'react';
 
 //Destructuring
 const Location = ({ city }) =>(
-        <div>
+        <div className="title">
             <h1>{city}</h1>
         </div>   
 );
